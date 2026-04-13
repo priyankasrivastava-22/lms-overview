@@ -4,7 +4,7 @@ A full-stack web application to manage library operations including book invento
 ---
 
 ## Tech Stack
-- Frontend: Recat.js
+- Frontend: React.js
 - Backend: Node.js, Express.js
 - Database: MySql
 - Authentication: JWT
