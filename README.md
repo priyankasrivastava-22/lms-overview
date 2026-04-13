@@ -1,4 +1,4 @@
-# lms-overview
+# Lbirary Management System-Overview
 A full-stack web application to manage library operations including book inventory, issuance, return tracking, and fine management with role-based access.
 
 ---
