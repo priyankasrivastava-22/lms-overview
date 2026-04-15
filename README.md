@@ -12,10 +12,15 @@ A full-stack web application to manage library operations including book invento
 
 ---
 
+## Live Demo
+Student Frontend: https://library-management-system-lms-frontend.onrender.com
+
+---
+
 ## Source Code links:
-* Student Frontend:
-* Backend:
-* Admin Dashboard:
+* Student Frontend: https://github.com/priyankasrivastava-22/library-management-system-lms-frontend.git
+* Backend: https://github.com/priyankasrivastava-22/library-management-system-backend.git
+* Admin Dashboard: https://github.com/priyankasrivastava-22/library-management-system-admin_dashboard.git
 
 ---
 
